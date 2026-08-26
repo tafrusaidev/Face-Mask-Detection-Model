@@ -1,6 +1,6 @@
 tensorflow
 keras
-opencv-python<5
+opencv-python-headless<5
 numpy
 matplotlib
 streamlit
